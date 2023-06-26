@@ -1,2 +1,2 @@
 # CarPrototype
-Task 2 Var 2 (a prototype of the car race game)
+Task 2 Variant 2 (a prototype of the car race game)
